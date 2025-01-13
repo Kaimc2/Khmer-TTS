@@ -1,4 +1,4 @@
-This project aim to create a Khmer Text-to-Speech (TTS) system that generates natural-sounding speech from Khmer text. Veaja leverages Tacotron2 for mel spectrogram generation and WaveRNN for vocoder synthesis, enabling smooth and realistic audio output.
+This project aim to create a Khmer Text-to-Speech (TTS) system that generates natural-sounding speech from Khmer text. It leverages Tacotron for mel spectrogram generation and WaveRNN for vocoder synthesis, enabling smooth and realistic audio output.
 
 ### References
 
